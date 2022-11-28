@@ -1,0 +1,1958 @@
+html {  line-height: 1.15;}
+body {  margin: 0;}* {  box-sizing: border-box;  border-width: 0;  border-style: solid;}p,li,ul,pre,div,h1,h2,h3,h4,h5,h6,figure,blockquote,figcaption {  margin: 0;  padding: 0;}button {  background-color: transparent;}button,input,optgroup,select,textarea {  font-family: inherit;  font-size: 100%;  line-height: 1.15;  margin: 0;}button,select {  text-transform: none;}button,[type="button"],[type="reset"],[type="submit"] {  -webkit-appearance: button;}button::-moz-focus-inner,[type="button"]::-moz-focus-inner,[type="reset"]::-moz-focus-inner,[type="submit"]::-moz-focus-inner {  border-style: none;  padding: 0;}button:-moz-focus,[type="button"]:-moz-focus,[type="reset"]:-moz-focus,[type="submit"]:-moz-focus {  outline: 1px dotted ButtonText;}a {  color: inherit;  text-decoration: inherit;}input {  padding: 2px 4px;}img {  display: block;}html { scroll-behavior: smooth  }
+    
+html {
+  font-family: Inter;
+  font-size: 16px;
+}
+
+body {
+  font-weight: 400;
+  font-style:normal;
+  text-decoration: none;
+  text-transform: none;
+  letter-spacing: normal;
+  line-height: 1.15;
+  color: var(--dl-color-gray-black);
+  background-color: var(--dl-color-gray-white);
+
+}
+
+.schoolabsolute-container {
+  min-height: 100vh;
+}
+.schoolabsolute-schoolabsolute {
+  width: 100%;
+  height: auto;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  border-color: transparent;
+  flex-direction: column;
+  background-color: rgba(255, 255, 255, 1);
+}
+.schoolabsolute-header {
+  width: 1440px;
+  height: 729px;
+  display: flex;
+  padding: 120px 0;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+  margin-bottom: 0px;
+  background-color: rgba(249, 249, 249, 1);
+}
+.schoolabsolute-background {
+  top: 0px;
+  left: 0px;
+  width: 1440px;
+  height: 729px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+}
+.schoolabsolute-hero3cover {
+  top: 0px;
+  left: 0px;
+  width: 1440px;
+  height: 729px;
+  position: absolute;
+  border-color: transparent;
+}
+.schoolabsolute-filter {
+  top: 0px;
+  left: 0px;
+  width: 1440px;
+  height: 729px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+}
+.schoolabsolute-container1 {
+  top: 0px;
+  left: 59px;
+  width: 1322px;
+  height: 91px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+}
+.schoolabsolute-navbarstyle2navbarlight {
+  top: 0px;
+  left: 0px;
+  width: 1322px;
+  height: 91px;
+  display: flex;
+  padding: 10px 30px;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  border-color: transparent;
+}
+.schoolabsolute-navbarbrandsec {
+  top: 17px;
+  left: 136px;
+  width: 187px;
+  height: 58px;
+  display: flex;
+  padding: 10px;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  border-color: transparent;
+}
+.schoolabsolute-text {
+  top: 13px;
+  left: 0px;
+  color: var(--dl-color-default-lighttextcolor);
+  height: auto;
+  position: absolute;
+  align-self: auto;
+  text-align: left;
+  line-height: 32px;
+  margin-right: 0;
+  margin-bottom: 0;
+}
+.schoolabsolute-navbartoggler {
+  top: 39px;
+  left: 1298px;
+  width: 24px;
+  height: 13.714286804199219px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+}
+.schoolabsolute-navbartogglericon {
+  top: 0px;
+  left: 0px;
+  width: 24px;
+  height: 13.714286804199219px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+}
+.schoolabsolute-collapsenavbarcollapse {
+  top: 16px;
+  left: 364px;
+  width: 815px;
+  height: 58px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+}
+.schoolabsolute-navbarnav {
+  top: 17px;
+  left: 0px;
+  width: 275px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: center;
+  border-color: transparent;
+}
+.schoolabsolute-lisec {
+  width: 43px;
+  height: 24px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+  margin-right: 21px;
+}
+.schoolabsolute-a {
+  top: 0px;
+  left: 0px;
+  width: 43px;
+  height: 24px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+}
+.schoolabsolute-text002 {
+  color: var(--dl-color-default-lighttextcolor);
+  height: auto;
+  position: absolute;
+  align-self: auto;
+  text-align: center;
+  line-height: 24px;
+  margin-right: 0;
+  margin-bottom: 0;
+}
+.schoolabsolute-lisec1 {
+  width: 59px;
+  height: 24px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+  margin-right: 21px;
+}
+.schoolabsolute-a1 {
+  top: 0px;
+  left: 0px;
+  width: 59px;
+  height: 24px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+}
+.schoolabsolute-text004 {
+  color: var(--dl-color-default-lighttextcolor);
+  height: auto;
+  position: absolute;
+  align-self: auto;
+  text-align: center;
+  line-height: 24px;
+  margin-right: 0;
+  margin-bottom: 0;
+}
+.schoolabsolute-lisec2 {
+  width: 52px;
+  height: 24px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+  margin-right: 21px;
+}
+.schoolabsolute-a2 {
+  top: 0px;
+  left: 0px;
+  width: 52px;
+  height: 24px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+}
+.schoolabsolute-text006 {
+  color: var(--dl-color-default-lighttextcolor);
+  height: auto;
+  position: absolute;
+  align-self: auto;
+  text-align: center;
+  line-height: 24px;
+  margin-right: 0;
+  margin-bottom: 0;
+}
+.schoolabsolute-lisec3 {
+  width: 58px;
+  height: 24px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+}
+.schoolabsolute-a3 {
+  top: 0px;
+  left: 0px;
+  width: 58px;
+  height: 24px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+}
+.schoolabsolute-text008 {
+  color: var(--dl-color-default-lighttextcolor);
+  height: auto;
+  position: absolute;
+  align-self: auto;
+  text-align: center;
+  line-height: 24px;
+  margin-right: 0;
+  margin-bottom: 0;
+}
+.schoolabsolute-navbarnav1 {
+  top: 3px;
+  left: 515px;
+  width: 300px;
+  display: flex;
+  position: absolute;
+  align-items: center;
+  border-color: transparent;
+}
+.schoolabsolute-navitemsec {
+  width: 41px;
+  height: 22px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+  margin-right: 45px;
+}
+.schoolabsolute-a4 {
+  top: 0px;
+  left: 0px;
+  width: 41px;
+  height: 22px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+}
+.schoolabsolute-text010 {
+  color: var(--dl-color-default-lighttextcolor);
+  height: auto;
+  position: absolute;
+  align-self: auto;
+  text-align: right;
+  line-height: 22px;
+  margin-right: 0;
+  margin-bottom: 0;
+}
+.schoolabsolute-navitemsec1 {
+  width: 214px;
+  height: 52px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+}
+.schoolabsolute-buttonbtnprimarycolor {
+  top: 0px;
+  left: 0px;
+  width: 137px;
+  display: flex;
+  padding: 15px 25px;
+  overflow: hidden;
+  position: absolute;
+  align-items: center;
+  border-color: transparent;
+  border-radius: 5px;
+  background-color: var(--dl-color-default-primarycolor);
+  cursor: pointer;
+}
+.schoolabsolute-text012 {
+  color: var(--dl-color-default-lighttextcolor);
+  height: auto;
+  align-self: auto;
+  text-align: left;
+  line-height: 22px;
+  margin-right: 15px;
+  margin-bottom: 0;
+}
+.schoolabsolute-icnarrowrighticnxs {
+  width: 12px;
+  height: 10px;
+  position: relative;
+}
+.schoolabsolute-container2 {
+  top: 104px;
+  left: 195px;
+  width: 1050px;
+  display: flex;
+  padding: 112px 0;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+  flex-direction: column;
+}
+.schoolabsolute-row {
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: center;
+  border-color: transparent;
+}
+.schoolabsolute-colmd8 {
+  width: 599px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+  margin-right: 30px;
+  flex-direction: column;
+}
+.schoolabsolute-text014 {
+  color: var(--dl-color-default-lighttextcolor);
+  height: auto;
+  align-self: auto;
+  text-align: left;
+  line-height: 24px;
+  margin-right: 0;
+  margin-bottom: 35px;
+}
+.schoolabsolute-text016 {
+  color: var(--dl-color-default-lighttextcolor);
+  width: 467px;
+  height: auto;
+  align-self: auto;
+  text-align: left;
+  line-height: 80px;
+  margin-right: 0;
+  margin-bottom: 35px;
+}
+.schoolabsolute-text018 {
+  color: var(--dl-color-default-lighttextcolor);
+  width: 338px;
+  height: auto;
+  align-self: auto;
+  text-align: left;
+  line-height: 30px;
+  margin-right: 0;
+  margin-bottom: 35px;
+}
+.schoolabsolute-cta {
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  border-color: transparent;
+}
+.schoolabsolute-button-md {
+  display: flex;
+  padding: 15px 40px;
+  overflow: hidden;
+  position: relative;
+  align-items: center;
+  border-color: transparent;
+  border-radius: 5px;
+  flex-direction: column;
+  background-color: var(--dl-color-default-primarycolor);
+}
+.schoolabsolute-text020 {
+  color: var(--dl-color-default-lighttextcolor);
+  height: auto;
+  align-self: auto;
+  text-align: center;
+  line-height: 22px;
+  margin-right: 0;
+  margin-bottom: 0;
+}
+.schoolabsolute-colmd4 {
+  width: 415px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+  flex-direction: column;
+}
+.schoolabsolute-stats1 {
+  width: 1440px;
+  height: 264px;
+  display: flex;
+  padding: 100px 195px;
+  overflow: hidden;
+  position: relative;
+  align-self: stretch;
+  align-items: flex-start;
+  border-color: transparent;
+  margin-bottom: 0px;
+  background-color: var(--dl-color-default-darkbackgroundcolor);
+}
+.schoolabsolute-container3 {
+  top: 0px;
+  left: 195px;
+  width: 1050px;
+  display: flex;
+  padding: 80px 0;
+  position: absolute;
+  align-items: center;
+  flex-shrink: 0;
+  border-color: transparent;
+  flex-direction: column;
+}
+.schoolabsolute-row1 {
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  border-color: transparent;
+}
+.schoolabsolute-colmd3sec {
+  width: 238px;
+  display: flex;
+  position: relative;
+  align-items: center;
+  flex-shrink: 0;
+  border-color: transparent;
+  margin-right: 30px;
+  flex-direction: column;
+}
+.schoolabsolute-text022 {
+  color: var(--dl-color-default-primarycolor);
+  height: auto;
+  align-self: auto;
+  text-align: center;
+  line-height: 80px;
+  margin-right: 0;
+  margin-bottom: 0px;
+}
+.schoolabsolute-text024 {
+  color: var(--dl-color-default-lighttextcolor);
+  height: auto;
+  align-self: auto;
+  text-align: center;
+  line-height: 24px;
+  margin-right: 0;
+  margin-bottom: 0;
+}
+.schoolabsolute-colmd3sec1 {
+  width: 241px;
+  display: flex;
+  position: relative;
+  align-items: center;
+  flex-shrink: 0;
+  border-color: transparent;
+  margin-right: 30px;
+  flex-direction: column;
+}
+.schoolabsolute-text026 {
+  color: var(--dl-color-default-primarycolor);
+  height: auto;
+  align-self: auto;
+  text-align: center;
+  line-height: 80px;
+  margin-right: 0;
+  margin-bottom: 0px;
+}
+.schoolabsolute-text028 {
+  color: var(--dl-color-default-lighttextcolor);
+  height: auto;
+  align-self: auto;
+  text-align: center;
+  line-height: 24px;
+  margin-right: 0;
+  margin-bottom: 0;
+}
+.schoolabsolute-colmd3sec2 {
+  width: 240px;
+  display: flex;
+  position: relative;
+  align-items: center;
+  flex-shrink: 0;
+  border-color: transparent;
+  margin-right: 30px;
+  flex-direction: column;
+}
+.schoolabsolute-text030 {
+  color: var(--dl-color-default-primarycolor);
+  height: auto;
+  align-self: auto;
+  text-align: center;
+  line-height: 80px;
+  margin-right: 0;
+  margin-bottom: 0px;
+}
+.schoolabsolute-text032 {
+  color: var(--dl-color-default-lighttextcolor);
+  height: auto;
+  align-self: auto;
+  text-align: center;
+  line-height: 24px;
+  margin-right: 0;
+  margin-bottom: 0;
+}
+.schoolabsolute-colmd3sec3 {
+  width: 240px;
+  display: flex;
+  position: relative;
+  align-items: center;
+  flex-shrink: 0;
+  border-color: transparent;
+  flex-direction: column;
+}
+.schoolabsolute-text034 {
+  color: var(--dl-color-default-primarycolor);
+  height: auto;
+  align-self: auto;
+  text-align: center;
+  line-height: 80px;
+  margin-right: 0;
+  margin-bottom: 0px;
+}
+.schoolabsolute-text036 {
+  color: var(--dl-color-default-lighttextcolor);
+  height: auto;
+  align-self: auto;
+  text-align: center;
+  line-height: 24px;
+  margin-right: 0;
+  margin-bottom: 0;
+}
+.schoolabsolute-frame14layout3 {
+  width: 1440px;
+  height: 849px;
+  display: flex;
+  padding: 0 195px;
+  overflow: hidden;
+  position: relative;
+  align-items: flex-start;
+  border-color: transparent;
+  margin-bottom: 0px;
+  background-color: var(--dl-color-default-darkbackgroundcolor);
+}
+.schoolabsolute-container4 {
+  top: 0px;
+  left: 195px;
+  width: 1050px;
+  display: flex;
+  padding: 112px 0;
+  position: absolute;
+  align-items: center;
+  flex-shrink: 0;
+  border-color: transparent;
+  flex-direction: column;
+}
+.schoolabsolute-row2 {
+  width: 1044px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+  margin-bottom: 112px;
+  flex-direction: column;
+}
+.schoolabsolute-maincontent {
+  width: 691px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+  flex-direction: column;
+}
+.schoolabsolute-text038 {
+  color: var(--dl-color-default-primarytextcolor);
+  height: auto;
+  align-self: auto;
+  text-align: left;
+  line-height: 24px;
+  margin-right: 0;
+  margin-bottom: 10px;
+}
+.schoolabsolute-text040 {
+  color: var(--dl-color-default-lighttextcolor);
+  height: auto;
+  align-self: auto;
+  text-align: left;
+  line-height: 50px;
+  margin-right: 0;
+  margin-bottom: 10px;
+}
+.schoolabsolute-text042 {
+  color: var(--dl-color-default-lighttextcolor);
+  height: auto;
+  align-self: auto;
+  text-align: left;
+  line-height: 20px;
+  margin-right: 0;
+  margin-bottom: 0;
+}
+.schoolabsolute-row3 {
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  border-color: transparent;
+}
+.schoolabsolute-colmd3 {
+  width: 238px;
+  display: flex;
+  position: relative;
+  align-items: center;
+  flex-shrink: 0;
+  border-color: transparent;
+  margin-right: 30px;
+  flex-direction: column;
+}
+.schoolabsolute-usercard {
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-self: stretch;
+  box-shadow: 0px 13px 19px 0px rgba(0, 0, 0, 0.07000000029802322) ;
+  align-items: center;
+  border-color: transparent;
+  border-radius: 20px;
+  flex-direction: column;
+  background-color: var(--dl-color-default-lightbackgroundcolor);
+}
+.schoolabsolute-fixedheightsec {
+  width: 238px;
+  height: 231px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-self: stretch;
+  align-items: flex-start;
+  border-color: transparent;
+  margin-bottom: 0px;
+}
+.schoolabsolute-usercover1 {
+  top: 0px;
+  left: 0px;
+  width: 238px;
+  height: 231px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+  background-size: cover;
+  background-image: url("../img/user-cover-1.png");
+}
+.schoolabsolute-cardcontent {
+  width: 232px;
+  display: flex;
+  padding: 30px;
+  overflow: hidden;
+  position: relative;
+  align-items: center;
+  flex-shrink: 0;
+  border-color: transparent;
+  flex-direction: column;
+}
+.schoolabsolute-text047 {
+  color: var(--dl-color-default-textcolor);
+  height: auto;
+  align-self: auto;
+  text-align: center;
+  line-height: 24px;
+  margin-right: 0;
+  margin-bottom: 10px;
+}
+.schoolabsolute-text049 {
+  color: var(--dl-color-default-secondtextcolor);
+  height: auto;
+  align-self: auto;
+  text-align: center;
+  line-height: 16px;
+  margin-right: 0;
+  margin-bottom: 10px;
+}
+.schoolabsolute-socialmediasec {
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: center;
+  border-color: transparent;
+  justify-content: center;
+}
+.schoolabsolute-facebook {
+  width: 24px;
+  height: 24px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+  margin-right: 20px;
+}
+.schoolabsolute-antdesignfacebookfilled {
+  top: 0px;
+  left: 0px;
+  width: 24px;
+  height: 24px;
+  position: absolute;
+}
+.schoolabsolute-instagram {
+  width: 24px;
+  height: 24px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+  margin-right: 20px;
+}
+.schoolabsolute-antdesigninstagramoutlined {
+  top: 0px;
+  left: 0px;
+  width: 24px;
+  height: 24px;
+  position: absolute;
+}
+.schoolabsolute-twitter {
+  width: 24px;
+  height: 19.764705657958984px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+}
+.schoolabsolute-antdesigntwitteroutlined {
+  top: 0px;
+  left: 0px;
+  width: 24px;
+  height: 20px;
+  position: absolute;
+}
+.schoolabsolute-colmd31 {
+  width: 241px;
+  display: flex;
+  position: relative;
+  align-items: center;
+  flex-shrink: 0;
+  border-color: transparent;
+  margin-right: 30px;
+  flex-direction: column;
+}
+.schoolabsolute-usercard1 {
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-self: stretch;
+  box-shadow: 0px 13px 19px 0px rgba(0, 0, 0, 0.07000000029802322) ;
+  align-items: center;
+  border-color: transparent;
+  border-radius: 20px;
+  flex-direction: column;
+  background-color: var(--dl-color-default-lightbackgroundcolor);
+}
+.schoolabsolute-fixedheightsec1 {
+  width: 241px;
+  height: 231px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-self: stretch;
+  align-items: flex-start;
+  border-color: transparent;
+  margin-bottom: 0px;
+}
+.schoolabsolute-usercover2 {
+  top: 0px;
+  left: 0px;
+  width: 241px;
+  height: 231px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+  background-size: cover;
+  background-image: url("../img/user-cover-2.png");
+}
+.schoolabsolute-cardcontent1 {
+  width: 232px;
+  display: flex;
+  padding: 30px;
+  overflow: hidden;
+  position: relative;
+  align-items: center;
+  flex-shrink: 0;
+  border-color: transparent;
+  flex-direction: column;
+}
+.schoolabsolute-text051 {
+  color: var(--dl-color-default-textcolor);
+  height: auto;
+  align-self: auto;
+  text-align: center;
+  line-height: 24px;
+  margin-right: 0;
+  margin-bottom: 10px;
+}
+.schoolabsolute-text053 {
+  color: var(--dl-color-default-secondtextcolor);
+  height: auto;
+  align-self: auto;
+  text-align: center;
+  line-height: 16px;
+  margin-right: 0;
+  margin-bottom: 10px;
+}
+.schoolabsolute-socialmediasec1 {
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: center;
+  border-color: transparent;
+  justify-content: center;
+}
+.schoolabsolute-facebook1 {
+  width: 24px;
+  height: 24px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+  margin-right: 20px;
+}
+.schoolabsolute-antdesignfacebookfilled1 {
+  top: 0px;
+  left: 0px;
+  width: 24px;
+  height: 24px;
+  position: absolute;
+}
+.schoolabsolute-instagram1 {
+  width: 24px;
+  height: 24px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+  margin-right: 20px;
+}
+.schoolabsolute-antdesigninstagramoutlined1 {
+  top: 0px;
+  left: 0px;
+  width: 24px;
+  height: 24px;
+  position: absolute;
+}
+.schoolabsolute-twitter1 {
+  width: 24px;
+  height: 19.764705657958984px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+}
+.schoolabsolute-antdesigntwitteroutlined1 {
+  top: 0px;
+  left: 0px;
+  width: 24px;
+  height: 20px;
+  position: absolute;
+}
+.schoolabsolute-colmd32 {
+  width: 240px;
+  display: flex;
+  position: relative;
+  align-items: center;
+  flex-shrink: 0;
+  border-color: transparent;
+  margin-right: 30px;
+  flex-direction: column;
+}
+.schoolabsolute-usercard2 {
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-self: stretch;
+  box-shadow: 0px 13px 19px 0px rgba(0, 0, 0, 0.07000000029802322) ;
+  align-items: center;
+  border-color: transparent;
+  border-radius: 20px;
+  flex-direction: column;
+  background-color: var(--dl-color-default-lightbackgroundcolor);
+}
+.schoolabsolute-fixedheightsec2 {
+  width: 240px;
+  height: 231px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-self: stretch;
+  align-items: flex-start;
+  border-color: transparent;
+  margin-bottom: 0px;
+}
+.schoolabsolute-usercover3 {
+  top: 0px;
+  left: 0px;
+  width: 240px;
+  height: 231px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+  background-size: cover;
+  background-image: url("../img/user-cover-3.png");
+}
+.schoolabsolute-cardcontent2 {
+  width: 232px;
+  display: flex;
+  padding: 30px;
+  overflow: hidden;
+  position: relative;
+  align-items: center;
+  flex-shrink: 0;
+  border-color: transparent;
+  flex-direction: column;
+}
+.schoolabsolute-text055 {
+  color: var(--dl-color-default-textcolor);
+  height: auto;
+  align-self: auto;
+  text-align: center;
+  line-height: 24px;
+  margin-right: 0;
+  margin-bottom: 10px;
+}
+.schoolabsolute-text057 {
+  color: var(--dl-color-default-secondtextcolor);
+  height: auto;
+  align-self: auto;
+  text-align: center;
+  line-height: 16px;
+  margin-right: 0;
+  margin-bottom: 10px;
+}
+.schoolabsolute-socialmediasec2 {
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: center;
+  border-color: transparent;
+  justify-content: center;
+}
+.schoolabsolute-facebook2 {
+  width: 24px;
+  height: 24px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+  margin-right: 20px;
+}
+.schoolabsolute-antdesignfacebookfilled2 {
+  top: 0px;
+  left: 0px;
+  width: 24px;
+  height: 24px;
+  position: absolute;
+}
+.schoolabsolute-instagram2 {
+  width: 24px;
+  height: 24px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+  margin-right: 20px;
+}
+.schoolabsolute-antdesigninstagramoutlined2 {
+  top: 0px;
+  left: 0px;
+  width: 24px;
+  height: 24px;
+  position: absolute;
+}
+.schoolabsolute-twitter2 {
+  width: 24px;
+  height: 19.764705657958984px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+}
+.schoolabsolute-antdesigntwitteroutlined2 {
+  top: 0px;
+  left: 0px;
+  width: 24px;
+  height: 20px;
+  position: absolute;
+}
+.schoolabsolute-colmd33 {
+  width: 240px;
+  display: flex;
+  position: relative;
+  align-items: center;
+  flex-shrink: 0;
+  border-color: transparent;
+  flex-direction: column;
+}
+.schoolabsolute-usercard3 {
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-self: stretch;
+  box-shadow: 0px 13px 19px 0px rgba(0, 0, 0, 0.07000000029802322) ;
+  align-items: center;
+  border-color: transparent;
+  border-radius: 20px;
+  flex-direction: column;
+  background-color: var(--dl-color-default-lightbackgroundcolor);
+}
+.schoolabsolute-fixedheightsec3 {
+  width: 240px;
+  height: 231px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-self: stretch;
+  align-items: flex-start;
+  border-color: transparent;
+  margin-bottom: 0px;
+}
+.schoolabsolute-usercover4 {
+  top: 0px;
+  left: 0px;
+  width: 240px;
+  height: 231px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+  background-size: cover;
+  background-image: url("../img/user-cover-4.png");
+}
+.schoolabsolute-cardcontent3 {
+  width: 232px;
+  display: flex;
+  padding: 30px;
+  overflow: hidden;
+  position: relative;
+  align-items: center;
+  flex-shrink: 0;
+  border-color: transparent;
+  flex-direction: column;
+}
+.schoolabsolute-text059 {
+  color: var(--dl-color-default-textcolor);
+  height: auto;
+  align-self: auto;
+  text-align: center;
+  line-height: 24px;
+  margin-right: 0;
+  margin-bottom: 10px;
+}
+.schoolabsolute-text061 {
+  color: var(--dl-color-default-secondtextcolor);
+  height: auto;
+  align-self: auto;
+  text-align: center;
+  line-height: 16px;
+  margin-right: 0;
+  margin-bottom: 10px;
+}
+.schoolabsolute-socialmediasec3 {
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: center;
+  border-color: transparent;
+  justify-content: center;
+}
+.schoolabsolute-facebook3 {
+  width: 24px;
+  height: 24px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+  margin-right: 20px;
+}
+.schoolabsolute-antdesignfacebookfilled3 {
+  top: 0px;
+  left: 0px;
+  width: 24px;
+  height: 24px;
+  position: absolute;
+}
+.schoolabsolute-instagram3 {
+  width: 24px;
+  height: 24px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+  margin-right: 20px;
+}
+.schoolabsolute-antdesigninstagramoutlined3 {
+  top: 0px;
+  left: 0px;
+  width: 24px;
+  height: 24px;
+  position: absolute;
+}
+.schoolabsolute-twitter3 {
+  width: 24px;
+  height: 19.764705657958984px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+}
+.schoolabsolute-antdesigntwitteroutlined3 {
+  top: 0px;
+  left: 0px;
+  width: 24px;
+  height: 20px;
+  position: absolute;
+}
+.schoolabsolute-footer {
+  width: 1440px;
+  height: 346px;
+  display: flex;
+  padding: 120px 0;
+  overflow: hidden;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+  background-color: rgba(249, 249, 249, 1);
+}
+.schoolabsolute-div {
+  top: 0px;
+  left: 0px;
+  width: 1440px;
+  height: 272px;
+  display: flex;
+  padding: 120px 0;
+  overflow: hidden;
+  position: absolute;
+  align-self: stretch;
+  align-items: flex-start;
+  border-color: transparent;
+  background-color: var(--dl-color-default-darkbackgroundcolor);
+}
+.schoolabsolute-container5 {
+  top: 0px;
+  left: 195px;
+  width: 1050px;
+  display: flex;
+  padding: 50px 0;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+  flex-direction: column;
+}
+.schoolabsolute-row4 {
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: flex-start;
+  border-color: transparent;
+}
+.schoolabsolute-colmd2 {
+  width: 148px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+  margin-right: 30px;
+  flex-direction: column;
+}
+.schoolabsolute-text063 {
+  color: var(--dl-color-default-lighttextcolor);
+  height: auto;
+  align-self: auto;
+  text-align: left;
+  line-height: 24px;
+  margin-right: 0;
+  margin-bottom: 20px;
+}
+.schoolabsolute-div1 {
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  border-color: transparent;
+  flex-direction: column;
+}
+.schoolabsolute-text065 {
+  color: var(--dl-color-default-lighttextcolor);
+  height: auto;
+  align-self: auto;
+  text-align: left;
+  line-height: 24px;
+  margin-right: 0;
+  margin-bottom: 10px;
+}
+.schoolabsolute-text067 {
+  color: var(--dl-color-default-lighttextcolor);
+  height: auto;
+  align-self: auto;
+  text-align: left;
+  line-height: 24px;
+  margin-right: 0;
+  margin-bottom: 10px;
+}
+.schoolabsolute-text069 {
+  color: var(--dl-color-default-lighttextcolor);
+  height: auto;
+  align-self: auto;
+  text-align: left;
+  line-height: 24px;
+  margin-right: 0;
+  margin-bottom: 10px;
+}
+.schoolabsolute-text071 {
+  color: var(--dl-color-default-lighttextcolor);
+  height: auto;
+  align-self: auto;
+  text-align: left;
+  line-height: 24px;
+  margin-right: 0;
+  margin-bottom: 0;
+}
+.schoolabsolute-colmd21 {
+  width: 152px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+  margin-right: 30px;
+  flex-direction: column;
+}
+.schoolabsolute-text073 {
+  color: var(--dl-color-default-lighttextcolor);
+  height: auto;
+  align-self: auto;
+  text-align: left;
+  line-height: 24px;
+  margin-right: 0;
+  margin-bottom: 20px;
+}
+.schoolabsolute-div2 {
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  border-color: transparent;
+  flex-direction: column;
+}
+.schoolabsolute-text075 {
+  color: var(--dl-color-default-lighttextcolor);
+  height: auto;
+  align-self: auto;
+  text-align: left;
+  line-height: 24px;
+  margin-right: 0;
+  margin-bottom: 10px;
+}
+.schoolabsolute-text077 {
+  color: var(--dl-color-default-lighttextcolor);
+  height: auto;
+  align-self: auto;
+  text-align: left;
+  line-height: 24px;
+  margin-right: 0;
+  margin-bottom: 10px;
+}
+.schoolabsolute-text079 {
+  color: var(--dl-color-default-lighttextcolor);
+  height: auto;
+  align-self: auto;
+  text-align: left;
+  line-height: 24px;
+  margin-right: 0;
+  margin-bottom: 10px;
+}
+.schoolabsolute-text081 {
+  color: var(--dl-color-default-lighttextcolor);
+  height: auto;
+  align-self: auto;
+  text-align: left;
+  line-height: 24px;
+  margin-right: 0;
+  margin-bottom: 0;
+}
+.schoolabsolute-colmd22 {
+  width: 148px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+  margin-right: 30px;
+  flex-direction: column;
+}
+.schoolabsolute-text083 {
+  color: var(--dl-color-default-lighttextcolor);
+  height: auto;
+  align-self: auto;
+  text-align: left;
+  line-height: 24px;
+  margin-right: 0;
+  margin-bottom: 20px;
+}
+.schoolabsolute-div3 {
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  border-color: transparent;
+  flex-direction: column;
+}
+.schoolabsolute-text085 {
+  color: var(--dl-color-default-lighttextcolor);
+  height: auto;
+  align-self: auto;
+  text-align: left;
+  line-height: 24px;
+  margin-right: 0;
+  margin-bottom: 10px;
+}
+.schoolabsolute-text087 {
+  color: var(--dl-color-default-lighttextcolor);
+  height: auto;
+  align-self: auto;
+  text-align: left;
+  line-height: 24px;
+  margin-right: 0;
+  margin-bottom: 10px;
+}
+.schoolabsolute-text089 {
+  color: var(--dl-color-default-lighttextcolor);
+  height: auto;
+  align-self: auto;
+  text-align: left;
+  line-height: 24px;
+  margin-right: 0;
+  margin-bottom: 10px;
+}
+.schoolabsolute-text091 {
+  color: var(--dl-color-default-lighttextcolor);
+  height: auto;
+  align-self: auto;
+  text-align: left;
+  line-height: 24px;
+  margin-right: 0;
+  margin-bottom: 0;
+}
+.schoolabsolute-colmd23 {
+  width: 152px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+  margin-right: 30px;
+  flex-direction: column;
+}
+.schoolabsolute-text093 {
+  color: var(--dl-color-default-lighttextcolor);
+  height: auto;
+  align-self: auto;
+  text-align: left;
+  line-height: 24px;
+  margin-right: 0;
+  margin-bottom: 20px;
+}
+.schoolabsolute-div4 {
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  border-color: transparent;
+  flex-direction: column;
+}
+.schoolabsolute-text095 {
+  color: var(--dl-color-default-lighttextcolor);
+  height: auto;
+  align-self: auto;
+  text-align: left;
+  line-height: 24px;
+  margin-right: 0;
+  margin-bottom: 10px;
+}
+.schoolabsolute-text097 {
+  color: var(--dl-color-default-lighttextcolor);
+  height: auto;
+  align-self: auto;
+  text-align: left;
+  line-height: 24px;
+  margin-right: 0;
+  margin-bottom: 10px;
+}
+.schoolabsolute-text099 {
+  color: var(--dl-color-default-lighttextcolor);
+  height: auto;
+  align-self: auto;
+  text-align: left;
+  line-height: 24px;
+  margin-right: 0;
+  margin-bottom: 10px;
+}
+.schoolabsolute-text101 {
+  color: var(--dl-color-default-lighttextcolor);
+  height: auto;
+  align-self: auto;
+  text-align: left;
+  line-height: 24px;
+  margin-right: 0;
+  margin-bottom: 0;
+}
+.schoolabsolute-colmd41 {
+  width: 321px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+  flex-direction: column;
+}
+.schoolabsolute-text103 {
+  color: var(--dl-color-default-lighttextcolor);
+  height: auto;
+  align-self: auto;
+  text-align: left;
+  line-height: 24px;
+  margin-right: 0;
+  margin-bottom: 20px;
+}
+.schoolabsolute-div5 {
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  border-color: transparent;
+  flex-direction: column;
+}
+.schoolabsolute-featureitemsec {
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: center;
+  border-color: transparent;
+  margin-bottom: 10px;
+}
+.schoolabsolute-bxbxphone {
+  width: 24px;
+  height: 24px;
+  position: relative;
+  margin-right: 10px;
+}
+.schoolabsolute-text105 {
+  color: var(--dl-color-default-lighttextcolor);
+  height: auto;
+  align-self: auto;
+  text-align: left;
+  line-height: 24px;
+  margin-right: 0;
+  margin-bottom: 0;
+}
+.schoolabsolute-featureitemsec1 {
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: center;
+  border-color: transparent;
+  margin-bottom: 10px;
+}
+.schoolabsolute-bxbxmap {
+  width: 24px;
+  height: 30px;
+  position: relative;
+  margin-right: 10px;
+}
+.schoolabsolute-text107 {
+  color: var(--dl-color-default-lighttextcolor);
+  height: auto;
+  align-self: auto;
+  text-align: left;
+  line-height: 24px;
+  margin-right: 0;
+  margin-bottom: 0;
+}
+.schoolabsolute-featureitemsec2 {
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: center;
+  border-color: transparent;
+}
+.schoolabsolute-carbonsendalt {
+  width: 24px;
+  height: 26px;
+  position: relative;
+  margin-right: 10px;
+}
+.schoolabsolute-text112 {
+  color: var(--dl-color-default-lighttextcolor);
+  height: auto;
+  align-self: auto;
+  text-align: left;
+  line-height: 24px;
+  margin-right: 0;
+  margin-bottom: 0;
+}
+.schoolabsolute-div6 {
+  top: 272px;
+  left: 0px;
+  width: 1440px;
+  height: 74px;
+  display: flex;
+  padding: 120px 0;
+  overflow: hidden;
+  position: absolute;
+  align-self: stretch;
+  align-items: flex-start;
+  border-color: transparent;
+  background-color: rgba(249, 249, 249, 1);
+}
+.schoolabsolute-container6 {
+  top: 0px;
+  left: 195px;
+  width: 1050px;
+  display: flex;
+  padding: 25px 0;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+  flex-direction: column;
+}
+.schoolabsolute-row5 {
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: center;
+  border-color: transparent;
+}
+.schoolabsolute-colmd7 {
+  width: 600px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+  margin-right: 213px;
+  flex-direction: column;
+}
+.schoolabsolute-text114 {
+  color: var(--dl-color-default-secondtextcolor);
+  height: auto;
+  align-self: auto;
+  text-align: left;
+  line-height: 24px;
+  margin-right: 0;
+  margin-bottom: 0;
+}
+.schoolabsolute-colmd6 {
+  width: 236px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: center;
+  flex-shrink: 0;
+  border-color: transparent;
+  flex-direction: column;
+}
+.schoolabsolute-socialmedia {
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: center;
+  border-color: transparent;
+  justify-content: center;
+}
+.schoolabsolute-facebooksec {
+  width: 24px;
+  height: 24px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+  margin-right: 20px;
+}
+.schoolabsolute-antdesignfacebookfilled4 {
+  top: 0px;
+  left: 0px;
+  width: 24px;
+  height: 24px;
+  position: absolute;
+}
+.schoolabsolute-instagramsec {
+  width: 24px;
+  height: 24px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+  margin-right: 20px;
+}
+.schoolabsolute-antdesigninstagramoutlined4 {
+  top: 0px;
+  left: 0px;
+  width: 24px;
+  height: 24px;
+  position: absolute;
+}
+.schoolabsolute-twittersec {
+  width: 24px;
+  height: 19.764705657958984px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+}
+.schoolabsolute-antdesigntwitteroutlined4 {
+  top: 0px;
+  left: 0px;
+  width: 24px;
+  height: 20px;
+  position: absolute;
+}
+
+
+:root {
+  --dl-color-gray-500: #595959;
+  --dl-color-gray-700: #999999;
+  --dl-color-gray-900: #D9D9D9;
+  --dl-size-size-large: 144px;
+  --dl-size-size-small: 48px;
+  --dl-color-danger-300: #A22020;
+  --dl-color-danger-500: #BF2626;
+  --dl-color-danger-700: #E14747;
+  --dl-color-gray-black: #000000;
+  --dl-color-gray-white: #FFFFFF;
+  --dl-size-size-medium: 96px;
+  --dl-size-size-xlarge: 192px;
+  --dl-size-size-xsmall: 16px;
+  --dl-space-space-unit: 16px;
+  --dl-color-primary-100: #003EB3;
+  --dl-color-primary-300: #0074F0;
+  --dl-color-primary-500: #14A9FF;
+  --dl-color-primary-700: #85DCFF;
+  --dl-color-success-300: #199033;
+  --dl-color-success-500: #32A94C;
+  --dl-color-success-700: #4CC366;
+  --dl-size-size-xxlarge: 288px;
+  --dl-size-size-maxwidth: 1400px;
+  --dl-radius-radius-round: 50%;
+  --dl-space-space-halfunit: 8px;
+  --dl-space-space-sixunits: 96px;
+  --dl-space-space-twounits: 32px;
+  --dl-radius-radius-radius2: 2px;
+  --dl-radius-radius-radius4: 4px;
+  --dl-radius-radius-radius8: 8px;
+  --dl-space-space-fiveunits: 80px;
+  --dl-space-space-fourunits: 64px;
+  --dl-space-space-threeunits: 48px;
+  --dl-color-default-secondary: rgba(243, 204, 2, 1);
+  --dl-color-default-textcolor: rgba(37, 43, 66, 1);
+  --dl-color-default-alertcolor: rgba(230, 124, 64, 1);
+  --dl-color-default-hovercolor: rgba(42, 123, 198, 1);
+  --dl-color-default-lightgray1: rgba(249, 249, 249, 1);
+  --dl-color-default-lightgray2: rgba(235, 235, 235, 1);
+  --dl-color-default-mutedcolor: rgba(189, 189, 189, 1);
+  --dl-color-default-dangercolor: rgba(230, 64, 64, 1);
+  --dl-color-default-primarycolor: rgba(141, 92, 246, 1);
+  --dl-color-default-successcolor: rgba(44, 192, 112, 1);
+  --dl-space-space-oneandhalfunits: 24px;
+  --dl-color-default-alerttextcolor: rgba(230, 124, 64, 1);
+  --dl-color-default-hovertextcolor: rgba(42, 123, 198, 1);
+  --dl-color-default-lighttextcolor: rgba(255, 255, 255, 1);
+  --dl-color-default-lighttextgray1: rgba(249, 249, 249, 1);
+  --dl-color-default-lighttextgray2: rgba(235, 235, 235, 1);
+  --dl-color-default-mutedtextcolor: rgba(189, 189, 189, 1);
+  --dl-color-default-dangertextcolor: rgba(230, 64, 64, 1);
+  --dl-color-default-secondarycolor1: rgba(255, 123, 82, 1);
+  --dl-color-default-secondarycolor2: rgba(234, 76, 137, 1);
+  --dl-color-default-secondtextcolor: rgba(114, 114, 114, 1);
+  --dl-color-default-primarytextcolor: rgba(141, 92, 246, 1);
+  --dl-color-default-successtextcolor: rgba(44, 192, 112, 1);
+  --dl-color-default-fadedprimarycolor: rgba(246, 247, 251, 1);
+  --dl-color-default-darkbackgroundcolor: rgba(38, 51, 93, 1);
+  --dl-color-default-secondarytextcolor1: rgba(255, 123, 82, 1);
+  --dl-color-default-secondarytextcolor2: rgba(234, 76, 137, 1);
+  --dl-color-default-disabledelementcolor: rgba(142, 194, 242, 1);
+  --dl-color-default-fadedsecondarycolor1: rgba(221, 244, 255, 1);
+  --dl-color-default-fadedsecondarycolor2: rgba(255, 242, 242, 1);
+  --dl-color-default-lightbackgroundcolor: rgba(255, 255, 255, 1);
+  --dl-color-default-disabledelementtextcolor: rgba(142, 194, 242, 1);
+}
+.button {
+  color: var(--dl-color-gray-black);
+  display: inline-block;
+  padding: 0.5rem 1rem;
+  border-color: var(--dl-color-gray-black);
+  border-width: 1px;
+  border-radius: 4px;
+  background-color: var(--dl-color-gray-white);
+}
+.input {
+  color: var(--dl-color-gray-black);
+  cursor: auto;
+  padding: 0.5rem 1rem;
+  border-color: var(--dl-color-gray-black);
+  border-width: 1px;
+  border-radius: 4px;
+  background-color: var(--dl-color-gray-white);
+}
+.textarea {
+  color: var(--dl-color-gray-black);
+  cursor: auto;
+  padding: 0.5rem;
+  border-color: var(--dl-color-gray-black);
+  border-width: 1px;
+  border-radius: 4px;
+  background-color: var(--dl-color-gray-white);
+}
+.list {
+  width: 100%;
+  margin: 1em 0px 1em 0px;
+  display: block;
+  padding: 0px 0px 0px 1.5rem;
+  list-style-type: none;
+  list-style-position: outside;
+}
+.list-item {
+  display: list-item;
+}
+.teleport-show {
+  display: flex !important;
+  transform: none !important;
+}
+.h2 {
+  font-size: 40px;
+  font-style: normal;
+  font-family: Montserrat;
+  font-weight: 700px;
+  font-stretch: normal;
+}
+.h3 {
+  font-size: 24px;
+  font-style: normal;
+  font-family: Montserrat;
+  font-weight: 700px;
+  font-stretch: normal;
+}
+.Heading {
+  font-size: 32px;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: 1.15;
+  text-transform: none;
+  text-decoration: none;
+}
+.link {
+  font-size: 14px;
+  font-style: normal;
+  font-family: Montserrat;
+  font-weight: 700px;
+  font-stretch: normal;
+}
+.h5 {
+  font-size: 16px;
+  font-style: normal;
+  font-family: Montserrat;
+  font-weight: 700px;
+  font-stretch: normal;
+}
+.h6 {
+  font-size: 14px;
+  font-style: normal;
+  font-family: Montserrat;
+  font-weight: 700px;
+  font-stretch: normal;
+}
+.small {
+  font-size: 12px;
+  font-style: normal;
+  font-family: Montserrat;
+  font-weight: 400px;
+  font-stretch: normal;
+}
+.h1 {
+  font-size: 58px;
+  font-style: normal;
+  font-family: Montserrat;
+  font-weight: 700px;
+  font-stretch: normal;
+}
+.paragraph {
+  font-size: 14px;
+  font-style: normal;
+  font-family: Montserrat;
+  font-weight: 400px;
+  font-stretch: normal;
+}
+.Content {
+  font-size: 16px;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: 1.15;
+  text-transform: none;
+  text-decoration: none;
+}
+.btnText {
+  font-size: 14px;
+  font-style: normal;
+  font-family: Montserrat;
+  font-weight: 700px;
+  font-stretch: normal;
+}
+.h4 {
+  font-size: 20px;
+  font-style: normal;
+  font-family: Montserrat;
+  font-weight: 400px;
+  font-stretch: normal;
+}
